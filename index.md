@@ -3,7 +3,6 @@ The Complete 2022 Web Development Bootcamp by [Angela Yu](https://www.udemy.com/
 Study guide
 
 # Section 1: Front-End Web Development 
-
 1. What You'll Get in This Course
 2. Download the Course Syllabus
 3. Download the Course Resources
@@ -28,3 +27,15 @@ Study guide
 20. How to Ace this Course
 
 # Section 3: Intermediate HTML
+21. HTML Tables
+22. Using HTML Tables for Layout
+23. HTML Tables Code Challenge
+24. How to Type Emojis
+25. HTML Table Solution Walkthrough
+26. HTML Forms
+27. Forms in Practice - Create a Contact me Form
+28. Publish Your Website!
+29. Tip from Angela - Habit Building with Calendar Trick
+30. Getting Monthly Tips and Tools to Level up as a Developer
+
+# Section 4: Introduction to CSS
