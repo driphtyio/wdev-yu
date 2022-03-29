@@ -39,3 +39,39 @@ Study guide
 30. Getting Monthly Tips and Tools to Level up as a Developer
 
 # Section 4: Introduction to CSS
+31. Introduction to CSS
+32. Inline CSS
+33. Internal CSS
+34. External CSS
+35. How to Debug CSS Code
+36. The Anatomy of CSS Syntax
+37. CSS Selectors
+38. Classess vs. Ids
+39. Tips from Angela - Dealing with Distractions
+40. Join the Student Community
+
+# Section 5: Intermediate CSS
+41. What We'll Make - Stylised Personal Site
+42. What are Favicons?
+43. HTML Divs
+44. The Box Model of Website Styling
+45. CSS Display Property
+46. Learn More About Web Design
+47. CSS Static and Relative Positioning
+48. Absolute positioning
+49. The Dark Art of Centering Elements with CSS
+50. Font Styling in Our Personal Site
+51. Learn more about Typography
+52. Adding Content to Our Website
+53. CSS Sizing
+54. Font Properties Challenge 1 - Change the Colours
+55. Font Properties Challenge 2 - Change the Font Weight
+56. Font Properties Challenge 3 - Change the Line Height
+57. CSS Font Property Challenge Solutions
+58. CSS Float and Clear
+59. CSS Challenge
+60. Stylised Personal Site Solution Walkthrough
+61. Optional - Get More Practice HTML and CSS
+62. Tip from Angela - Nothing Easy is Worth Doing!
+
+# Section 6 - Introduction to Bootstrap 4
