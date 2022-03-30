@@ -9,7 +9,7 @@ Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa6
 5. How Does the Internet Actually Work?
 6. How Do Websites Actually Work?
 7. How to Get the Most Out of the Course
-8. What You'll Need to Get Started - Setup Your Local Web Development 
+8. What You'll Need to Get Started - Setup Your Local Web Development [App Brewery Resource site](https://www.appbrewery.co/p/web-development-course-resources/)
 9. Setup Packages
 10. How to Get Help When You're Stuck
 11. Pathfinder
@@ -21,7 +21,7 @@ Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa6
 15. What is the HTML Boilerplate?
 16. How to Structure Text in HTML
 17. HTML List
-18. HTML Image Elements
+18. HTML Image Elements [Circle Image Cropper](https://crop-circle.imageonline.co/). [Resizing Tool](https://www.befunky.com/create/resize-image/)
 19. HTML Links and Anchor Tags
 20. How to Ace this Course
 
@@ -39,7 +39,7 @@ Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa6
 
 # Section 4: Introduction to CSS
 31. Introduction to CSS
-32. Inline CSS
+32. Inline CSS [Sean Halpin's Website]
 33. Internal CSS
 34. External CSS
 35. How to Debug CSS Code
