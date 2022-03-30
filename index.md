@@ -3,8 +3,6 @@
 
 The Complete 2022 Web Development Bootcamp by [Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) on Udemy
 
-Study guide
-
 # Section 1: Front-End Web Development 
 1. What You'll Get in This Course
 2. Download the Course Syllabus
