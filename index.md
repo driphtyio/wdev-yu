@@ -1,7 +1,5 @@
+Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) The Complete 2022 Web Development Bootcamp on Udemy
 
-[wdev-steele](https://driphtyio.github.io/wdev-steele/)
-
-The Complete 2022 Web Development Bootcamp by [Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) on Udemy
 
 # Section 1: Front-End Web Development 
 1. What You'll Get in This Course
@@ -76,3 +74,5 @@ The Complete 2022 Web Development Bootcamp by [Angela Yu](https://www.udemy.com/
 62. Tip from Angela - Nothing Easy is Worth Doing!
 
 # Section 6 - Introduction to Bootstrap 4
+
+[wdev-steele](https://driphtyio.github.io/wdev-steele/)
