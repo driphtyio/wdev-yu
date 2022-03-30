@@ -75,4 +75,4 @@ Information from [Angela Yu's](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa6
 
 # Section 6 - Introduction to Bootstrap 4
 
-[wdev-steele](https://driphtyio.github.io/wdev-steele/)
+[wdev-steele](https://driphtyio.github.io/wdev-steele/) [python-yu](https://driphtyio.github.io/python-yu/)
